@@ -17,6 +17,13 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+        // Adiciona a chave como uma variável de configuração
+        buildConfigField(
+            "String",
+            "MAPS_API_KEY",
+            "\"${properties["MAPS_API_KEY"]}\""
+        )
     }
 
     buildTypes {
@@ -28,6 +35,7 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8

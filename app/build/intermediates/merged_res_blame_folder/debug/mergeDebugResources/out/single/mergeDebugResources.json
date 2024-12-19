@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-mdpi_ic_nearby_launcher.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-mdpi/ic_nearby_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_logo_logo_logo_text.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_logo_logo_logo_text.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xxxhdpi_ic_nearby_launcher.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xxxhdpi/ic_nearby_launcher.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-hdpi_ic_nearby_launcher.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-hdpi/ic_nearby_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_bed.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_bed.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_gas_station.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_gas_station.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_coffee.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_coffee.png"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_tools_kitchen_2.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_tools_kitchen_2.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xxhdpi_ic_nearby_launcher_round.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xxhdpi/ic_nearby_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_burger.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_burger.png"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-anydpi-v26_ic_nearby_launcher.xml.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-anydpi-v26/ic_nearby_launcher.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xhdpi_ic_nearby_launcher_round.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xhdpi/ic_nearby_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-anydpi-v26_ic_nearby_launcher_round.xml.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-anydpi-v26/ic_nearby_launcher_round.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xxxhdpi_ic_nearby_launcher_foreground.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xxxhdpi/ic_nearby_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_bg_map.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\bg_map.png"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_scan.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_scan.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_user_location.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_user_location.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_bar.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_bar.png"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-mdpi_ic_nearby_launcher_foreground.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-mdpi/ic_nearby_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\font_rubik_bold.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\font\\rubik_bold.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_map_pin.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_map_pin.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xxxhdpi_ic_nearby_launcher_round.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xxxhdpi/ic_nearby_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xxhdpi_ic_nearby_launcher_foreground.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xxhdpi/ic_nearby_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-mdpi_ic_nearby_launcher_round.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-mdpi/ic_nearby_launcher_round.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xxhdpi_ic_nearby_launcher.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xxhdpi/ic_nearby_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_nearby_launcher_foreground.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_nearby_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_bakery.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_bakery.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_qrcode.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_qrcode.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-hdpi_ic_nearby_launcher_round.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-hdpi/ic_nearby_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_first_aid_kit.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_first_aid_kit.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_pin.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_pin.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xhdpi_ic_nearby_launcher.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xhdpi/ic_nearby_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_shopping_bag.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_shopping_bag.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_steak.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_steak.png"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_logo_logo_icon.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_logo_logo_icon.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_bg_splash_screen.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\bg_splash_screen.xml"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-xhdpi_ic_nearby_launcher_foreground.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-xhdpi/ic_nearby_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/drawable_icon_nearby_app.png.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/drawable/icon_nearby_app.png"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\font_rubik.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\font\\rubik.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_shopping_cart.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_ticket.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_ticket.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\font_rubik_semibold.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\font\\rubik_semibold.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_loader.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_loader.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.leonardodidomenico.nearby.app-debug-63:/mipmap-hdpi_ic_nearby_launcher_foreground.webp.flat",
+        "source": "com.leonardodidomenico.nearby.app-main-65:/mipmap-hdpi/ic_nearby_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_sushi.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_sushi.png"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\font_rubik_medium.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\font\\rubik_medium.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_img_brunch.png.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\img_brunch.png"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\drawable_ic_movie.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\drawable\\ic_movie.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-debug-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Projects\\AndroidStudio\\.gradle\\daemon\\8.9\\com.leonardodidomenico.nearby.app-main-65:\\xml\\backup_rules.xml"
+    }
+]

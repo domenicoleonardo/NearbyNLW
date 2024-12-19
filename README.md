@@ -1,5 +1,26 @@
-![Screenshot_20241215_232947](https://github.com/user-attachments/assets/108b726a-ce5d-46e6-a0e1-c5055ac32360)
-![Screenshot_20241215_232657](https://github.com/user-attachments/assets/d75eac7e-2e41-4506-98dc-46c2981e1b59)
-![Screenshot_20241215_232643](https://github.com/user-attachments/assets/d7fc14ce-28f7-4f75-8dfe-d3a1dd93a959)
-![Screenshot_20241215_232621](https://github.com/user-attachments/assets/111151c3-f775-491f-8728-923e1704abd4)
-![Screenshot_20241215_232606](https://github.com/user-attachments/assets/4022e61b-5eaa-4dc0-a1c9-17c40f818ded)
+<h1 align="center">Nearby App</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/KOTLIN-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/GOOGLE_MAPS-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps">
+</p>
+
+<p align="center">
+O projeto é um aplicativo mobile focado em sustentabilidade e benefícios, com recursos de mapeamento e localização.<br>
+Esse é um projeto criado para explorar funcionalidades modernas no desenvolvimento mobile utilizando Kotlin e Jetpack Compose.
+</p>
+
+---
+
+<h2 align="center">App</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f4ba9e9-3e18-465d-89ad-95a20138b112" alt="Tela Inicial" width="23%">
+  <img src="https://github.com/user-attachments/assets/3c5625d2-1f1e-44db-aa13-9ab316ab51ee" alt="Tela de Funcionamento" width="23%">
+  <img src="https://github.com/user-attachments/assets/948798ee-82dc-431b-a09c-b109ac299191" alt="Tela de Funcionamento" width="23%">
+  <img src="https://github.com/user-attachments/assets/72bd1043-6c43-4b26-88f9-1cddc303d9ce" alt="Lista de Locais" width="23%">
+</p>
+
+
